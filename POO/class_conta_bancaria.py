@@ -1,4 +1,4 @@
-class Contabancaria:
+class ContaBancaria:
     def _init_(self):
         self._nbanco=0
         self._nagencia=0
